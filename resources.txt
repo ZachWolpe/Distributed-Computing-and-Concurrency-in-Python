@@ -1,0 +1,6 @@
+Useful links & resources:
+
+
+- [concurrency theory](https://www.youtube.com/watch?v=S05-MZAJqNM)
+- [python asyncio tutorial](https://www.youtube.com/watch?v=6RbJYN7SoRs)
+- [python threading tutorial](https://www.youtube.com/watch?v=A_Z1lgZLSNc)
