@@ -1,6 +1,10 @@
 Useful links & resources:
 
-
+- [redis](https://redis.io/)
+- [redis docker distribution](https://github.com/fbaptiste/python-blog/tree/main)
+- [redis-queue](https://redis.com/glossary/redis-queue/#:~:text=Reliable%20Queues,immediately%20when%20it%20is%20dequeued.)
 - [concurrency theory](https://www.youtube.com/watch?v=S05-MZAJqNM)
+- [python concurrency tutorials](https://github.com/fbaptiste/python-blog/tree/main)
 - [python asyncio tutorial](https://www.youtube.com/watch?v=6RbJYN7SoRs)
 - [python threading tutorial](https://www.youtube.com/watch?v=A_Z1lgZLSNc)
+- [python threading lock](https://www.pythontutorial.net/python-concurrency/python-threading-lock/)

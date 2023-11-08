@@ -1,3 +1,15 @@
+"""
+----------------------------------------------------------------------------------------------------
+asyncIO.py
+
+Examples of using the `asyncio` library. asyncIO is a library to write concurrent code using the async/await syntax.
+
+: 08 Nov 23
+: zach wolpe
+: zach.wolpe@medibio.com.au
+----------------------------------------------------------------------------------------------------
+"""
+
 import asyncio
 
 # example 1: without return value ------------------------------->>
