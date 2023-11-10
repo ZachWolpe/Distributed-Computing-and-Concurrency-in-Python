@@ -6,9 +6,7 @@
 : zach.wolpe@medibio.com.au
 ```
 
-![Arch](https://github.com/ZachWolpe/Distributed-Computing-and-Concurrency-in-Python/blob/assets/arch-v1.png)
-
-
+![Arch](https://github.com/ZachWolpe/Distributed-Computing-and-Concurrency-in-Python/blob/main/assets/arch-v1.png)
 
 
 This repo demonstates how to implement:
