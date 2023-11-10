@@ -142,14 +142,14 @@ Execute a single thread but switch between tasks (_cooperative multitasking_). I
 The context switching is `explicit`
 
 
-#### Asyncronous Programming
+#### Asynchronous Programming
 
-Asyncronous programming is not multithreading or multiprocessing. It is a single thread that can switch between tasks. This is called _*cooperative multitasking*_.
+Asynchronous programming is not multithreading or multiprocessing. It is a single thread that can switch between tasks. This is called _*cooperative multitasking*_.
 
 
 #### Objective
 
-Asyncronous programming uses a single thread to switch between tasks (_cooperative multitasking_). If one task (function) is waiting for something to happen, the thread can switch to another task (function) and continue working in the interim.
+Asynchronous programming uses a single thread to switch between tasks (_cooperative multitasking_). If one task (function) is waiting for something to happen, the thread can switch to another task (function) and continue working in the interim.
 
 #### Use Cases
 
@@ -166,9 +166,9 @@ Keywords: {`asyncio`,`async`,`await`,`yield`}
 - Both async and multithreading are inherently single-threaded (GIL).
 - Safter than preemptive multitasking, but adds complexity to the code.
 
-`NB: 3rd party I/O libraries may not be asyncronous.`
+`NB: 3rd party I/O libraries may not be Asynchronous.`
 
-*Asyncronous libraries:*
+*Asynchronous libraries:*
 
 
 #### Python Execution
@@ -178,9 +178,9 @@ Keywords: {`asyncio`,`async`,`await`,`yield`}
     - When a task runs it executes code, at some point it should yield control back ot the event loop.
     - The event loop then decides which task to run next.
     - Tasks that do not yield control will block the event loop, and are thus called `blocking` tasks.
-    - To get the most out of asyncronous programming, we need to yield control when performing I/O operations.
+    - To get the most out of Asynchronous programming, we need to yield control when performing I/O operations.
 
-*Asyncronous libraries:*
+*Asynchronous libraries:*
 
 Blocking libraries can be replaced with non-blocking alternatives. 
 
