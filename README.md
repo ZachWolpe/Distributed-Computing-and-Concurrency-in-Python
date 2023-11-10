@@ -1,5 +1,5 @@
-# Distributed Computing & Concurrency
-## Python & Redis
+# Distributed Computing & Concurrency with Python & Redis.
+## Distributed Computing, Multithreading & Asyncio with Python & Redis
 
 ```
 : 08.11.23
