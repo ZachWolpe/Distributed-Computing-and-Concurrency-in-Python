@@ -244,6 +244,6 @@ See [threading-5-lock.py].
 
 It is recommended to use `ThreadPoolExecutor` or `ProcessPoolExecutor` instead of `threading.Thread` or `multiprocessing.Process` directly. This is because the `ThreadPoolExecutor` and `ProcessPoolExecutor` are higher level abstractions that provide a simpler interface to multithreading and multiprocessing.
 
-*Fussing*
+*Fuzzing*
 
-It is recommended to use `fussing` during development/testing - adding random noise as time delays during execution. Dev/test/stage are often more stable, leading to falsely predictable results. Fussing
+It is recommended to use `fuzzing` during development/testing - adding random noise as time delays during execution. Dev/test/stage are often more stable, leading to falsely predictable results. fuzzing
