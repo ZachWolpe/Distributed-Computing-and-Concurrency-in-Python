@@ -22,4 +22,4 @@ See key resources in [resources.txt](https://github.com/ZachWolpe/Distributed-Co
 
 
 
-For a more detailed explanation see [](medium.com/zachwolpe)
+For a more detailed explanation see my [medium](https://zachcolinwolpe.medium.com/distributed-computing-concurrency-with-python-redis-586c46a026d0).
